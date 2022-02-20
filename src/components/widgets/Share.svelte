@@ -13,7 +13,7 @@
 	}/${state.board.words.length}\n\n    ${state.board.state
 		.slice(0, state.guesses)
 		.map((r) => r.join(""))
-		.join("\n    ")}\wwe.5wordle.tk`;
+		.join("\n    ")}\nwwe.5wordle.tk`;
 </script>
 
 <div
