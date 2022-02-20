@@ -60,7 +60,7 @@
 		</Setting>
 		<div class="links">
 			<a href="https://github.com/Toxiclikith/wordle" target="_blank">Leave a ⭐</a>
-			<a href="https://github.com/MikhaD/Toxiclikith/issues" target="_blank">Report a Bug</a>
+			<a href="https://github.com/Toxiclikith/issues" target="_blank">Report a Bug</a>
 		</div>
 		<Tips index={tip} />
 	</div>
